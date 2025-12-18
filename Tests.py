@@ -154,10 +154,6 @@ def main():
 if (__name__ == "__main__"):
     main()
 
-''' _ _                  _@_
-^\_(*_*)_/} - - - -  {\_[^_^] __,,
-I will get u          HaHa u sad cuz i got hair
-'''
 
 
 
